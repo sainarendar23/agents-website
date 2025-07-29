@@ -28,7 +28,7 @@ export default function Navbar() {
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-2">
               <Bot className="h-8 w-8 text-primary-600" />
-              <span className="text-xl font-bold text-gray-900">SOM AI</span>
+              <span className="text-xl font-bold text-gray-900">MOS AI</span>
             </Link>
           </div>
 
