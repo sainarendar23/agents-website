@@ -151,7 +151,7 @@ export default function LandingPage() {
           <div className="text-center">
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
               Automate Everything.
-              <span className="text-gradient block">Work Smarter with SOM AI</span>
+              <span className="text-gradient block">Work Smarter with MOS AI</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
               Transform your business with AI-powered automation agents. Purchase ready-to-deploy
@@ -334,7 +334,7 @@ export default function LandingPage() {
               What Our Customers Say
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Join thousands of businesses that trust SOM AI for their automation needs.
+              Join thousands of businesses that trust MOS AI for their automation needs.
             </p>
           </div>
           
@@ -371,7 +371,7 @@ export default function LandingPage() {
               Get In Touch
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Have questions about SOM AI? We'd love to hear from you.
+              Have questions about MOS AI? We'd love to hear from you.
             </p>
           </div>
           
@@ -385,21 +385,21 @@ export default function LandingPage() {
                   <Mail className="h-6 w-6 text-primary-600 mr-3" />
                   <div>
                     <p className="font-semibold text-gray-900">Email</p>
-                    <p className="text-gray-600">admin@gflow.ai</p>
+                    <p className="text-gray-600">mosai25@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-center">
                   <Phone className="h-6 w-6 text-primary-600 mr-3" />
                   <div>
                     <p className="font-semibold text-gray-900">Phone</p>
-                    <p className="text-gray-600">+1 (555) 123-4567</p>
+                    <p className="text-gray-600">+91 9688113670</p>
                   </div>
                 </div>
                 <div className="flex items-center">
                   <MapPin className="h-6 w-6 text-primary-600 mr-3" />
                   <div>
                     <p className="font-semibold text-gray-900">Address</p>
-                    <p className="text-gray-600">San Francisco, CA</p>
+                    <p className="text-gray-600">Tamil Nadu,India</p>
                   </div>
                 </div>
               </div>
