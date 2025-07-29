@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <Bot className="h-8 w-8 text-primary-400" />
-              <span className="text-xl font-bold">SOM AI</span>
+              <span className="text-xl font-bold">MOS AI</span>
             </div>
             <p className="text-gray-300">
               Automate everything. Work smarter with our AI-powered automation platform.
@@ -45,22 +45,22 @@ export default function Footer() {
             <div className="space-y-2">
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4" />
-                <span className="text-gray-300">admin@gflow.ai</span>
+                <span className="text-gray-300">smsainarendar23@gmail.com</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4" />
-                <span className="text-gray-300">+1 (555) 123-4567</span>
+                <span className="text-gray-300">+91 9688113670</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4" />
-                <span className="text-gray-300">San Francisco, CA</span>
+                <span className="text-gray-300">Tamil Nadu,India</span>
               </div>
             </div>
           </div>
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-300">
-          <p>&copy; 2024 SOM AI. All rights reserved.</p>
+          <p>&copy; 2024 MOS AI. All rights reserved.</p>
         </div>
       </div>
     </footer>
